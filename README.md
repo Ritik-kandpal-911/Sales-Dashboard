@@ -95,4 +95,4 @@ Sales teams lack a clear, data-driven understanding of regional performance, mak
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/yourusername/your-repo/blob/main/images/dashboard_preview.png)
+![Dashboard Screenshot](https://github.com/Ritik2kandpal/Sales-Dashboard/blob/main/Dashboard%20Snapshot.png)
