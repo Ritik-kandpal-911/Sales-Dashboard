@@ -1,4 +1,4 @@
-# 📊 Sales Analysis – Power BI, SQL & Python EDA Project
+# 📊 Sales Analysis – Power BI,  Python & EDA Project
 
 A comprehensive sales analytics project that leverages Python for exploratory data analysis and Power BI for interactive dashboards. The objective is to uncover actionable insights from 5 years of U.S. regional sales data to support strategic business decisions.
 
